@@ -330,7 +330,7 @@ function drawCredits() {
     ctx.fillStyle = '#fff';
     ctx.shadowColor = '#ffaa00';
     ctx.shadowBlur = 30;
-    ctx.fillText('Abduldinh', 0, 0);
+    ctx.fillText('Abdul Dinh', 0, 0);
     
     ctx.restore();
     
